@@ -2,7 +2,7 @@
 
 # Hi, I'm Xiaofeng 👋
 
-### PhD Candidate in Computer Science @ CUHK
+### PhD Candidate in Computer Science @ CUHKSZ
 
 Researching **Anomaly Detection · Agentic AI · Reliable AI**
 
@@ -17,27 +17,15 @@ Researching **Anomaly Detection · Agentic AI · Reliable AI**
 ## 🔬 Research Interests
 
 - Anomaly Detection
-- Distributional Learning
-- LLM & Multi-Agent Systems
+- Trustworthy AI
 - Reliable Agent Execution
-- Machine Learning
 
 ## 📚 Selected Research
 
-- **ImAD** — Anomaly Detection with Missing Values
-- **CLUBench** — A Large-Scale Clustering Benchmark
-- **GOOD** — Model Selection for Anomaly Detection
-- **Early Failure Prediction for Multi-Agent Systems**
-
-## 🛠 Tech Stack
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-</p>
+- **CIRE** — Hallucination Detection for LLMs (NeurIPS 2026)
+- **CLUBench** — A Large-Scale Clustering Benchmark mainly for Tabular and Image (KDD 2026)
+- **FairAD** - Fairness-aware Anomaly Detection (NeurIPS 2025)
+- **ImAD** — Anomaly Detection with Missing Values (NeurIPS 2024)
 
 ## 📊 GitHub Statistics
 
